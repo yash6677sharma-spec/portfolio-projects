@@ -103,6 +103,16 @@ A Tableau dashboard project focused on analyzing British Airways customer review
 
 ---
 
+## 🖥️ Streamlit
+
+### [Superstore Sales & Profit Dashboard — Streamlit](https://github.com/yash6677sharma-spec/Streamlit-Dashboard)
+
+An interactive Streamlit dashboard for analyzing Superstore sales, profit, customers, categories, regions, discounts, and returns using Python and Plotly.
+
+**Tools:** Python, Streamlit, Pandas, Plotly, Excel
+
+---
+
 ## 🤖 AI Automation
 
 ### [Data Analyst AI Automation](https://github.com/yash6677sharma-spec/Data-Analyst-AI-Automation)
@@ -124,6 +134,7 @@ Each project is maintained separately so that recruiters and other viewers can o
 | EDA | Python EDA, Titanic Klib EDA |
 | Power BI | Sales Report Dashboard, Olist E-commerce |
 | Tableau | British Airways Review |
+| Streamlit | Superstore Sales & Profit Dashboard |
 | AI Automation | Data Analyst AI Automation |
 
 ---
