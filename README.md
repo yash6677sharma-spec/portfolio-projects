@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analytics Portfolio**.
 
-This repository is a central collection of my projects across **Excel, SQL, Python, Power BI, Tableau, and data analytics automation**. Each project has its own repository with the project files, analysis, dashboards, notebooks, or supporting material.
+This repository is a central collection of my projects across **Excel, SQL, EDA, Power BI, Tableau, and AI Automation**. Each project has its own repository with the project files, analysis, dashboards, notebooks, or supporting material.
 
 ## About Me
 
@@ -10,17 +10,70 @@ I am a BCA graduate/fresher building practical skills in data analytics and data
 
 ### Skills & Tools
 
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- **SQL** — PostgreSQL / SQL querying
-- **Excel** — Data analysis, dashboards, PivotTables and reporting
-- **Power BI** — Power Query, DAX, interactive dashboards
+- **Excel** — Data analysis, PivotTables, charts, dashboards and reporting
+- **SQL** — PostgreSQL, SQL querying and business analysis
+- **Python / EDA** — Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Klib
+- **Power BI** — Power Query, DAX and interactive dashboards
 - **Tableau** — Dashboarding and data visualization
-- **Data Analytics** — Data cleaning, EDA, visualization, KPI analysis
 - **AI / Automation** — Data analyst automation and AI-assisted workflows
 
 ---
 
 # Projects
+
+## 📗 Excel
+
+### [Coffee Shop Sales — Excel Dashboard](https://github.com/yash6677sharma-spec/coffee-shop-sales-excel-dashboard)
+
+An Excel-based coffee shop sales dashboard for exploring sales performance and business trends.
+
+**Tools:** Microsoft Excel, PivotTables, Dashboarding, Data Analysis
+
+---
+
+### [Google vs Facebook Marketing Campaign Results](https://github.com/yash6677sharma-spec/google-vs-facebook-marketing-campaign-results)
+
+A marketing analytics project using Excel to analyze and compare campaign performance across Google and Facebook, including pivot-table analysis and dashboard reporting.
+
+**Tools:** Microsoft Excel, PivotTables, Excel Charts, Dashboarding, Marketing Analytics
+
+---
+
+## 🗄️ SQL
+
+### [Coffee Shop Sales Analysis](https://github.com/yash6677sharma-spec/coffee-shop-sales-analysis)
+
+A coffee shop sales analysis project focused on extracting and analyzing business insights from sales data.
+
+**Tools:** SQL, Data Analysis
+
+---
+
+### [Olist E-commerce — PostgreSQL + Power BI](https://github.com/yash6677sharma-spec/olist-ecommerce-postgresql-powerbi)
+
+An e-commerce analytics project using PostgreSQL for SQL-based data analysis and Power BI for interactive reporting and visualization.
+
+**Tools:** PostgreSQL, SQL, Power BI
+
+---
+
+## 🐍 EDA
+
+### [Exploratory Data Analysis in Python](https://github.com/yash6677sharma-spec/Exploratory-Data-Analysis-EDA-in-Python)
+
+A Python-based exploratory data analysis project covering data preparation, exploration, visualization and analytical insights.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### [Titanic — Klib EDA](https://github.com/yash6677sharma-spec/Titanic_Klib_EDA)
+
+An exploratory data analysis project on the Titanic dataset using Python and Klib for automated EDA and visualization.
+
+**Tools:** Python, Pandas, Klib, EDA
+
+---
 
 ## 📊 Power BI
 
@@ -50,53 +103,7 @@ A Tableau dashboard project focused on analyzing British Airways customer review
 
 ---
 
-## 🐍 Python / EDA
-
-### [Exploratory Data Analysis in Python](https://github.com/yash6677sharma-spec/Exploratory-Data-Analysis-EDA-in-Python)
-
-A Python-based exploratory data analysis project using common data analysis and visualization libraries.
-
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
----
-
-### [Titanic — Klib EDA](https://github.com/yash6677sharma-spec/Titanic_Klib_EDA)
-
-An exploratory data analysis project on the Titanic dataset using Python and Klib for automated EDA and visualization.
-
-**Tools:** Python, Pandas, Klib, EDA
-
----
-
-## 📗 Excel
-
-### [Coffee Shop Sales — Excel Dashboard](https://github.com/yash6677sharma-spec/coffee-shop-sales-excel-dashboard)
-
-An Excel-based coffee shop sales dashboard for exploring sales performance and business trends.
-
-**Tools:** Microsoft Excel, Dashboarding, Data Analysis
-
----
-
-## 🗄️ SQL / Data Analysis
-
-### [Coffee Shop Sales Analysis](https://github.com/yash6677sharma-spec/coffee-shop-sales-analysis)
-
-A coffee shop sales analysis project focused on extracting and analyzing business insights from sales data.
-
-**Tools:** SQL / Data Analysis
-
----
-
-### [Google vs Facebook Marketing Campaign Results](https://github.com/yash6677sharma-spec/google-vs-facebook-marketing-campaign-results)
-
-A marketing campaign analysis project comparing campaign performance data from Google and Facebook.
-
-**Tools:** Data Analysis, Marketing Analytics
-
----
-
-## 🤖 Data Analytics Automation
+## 🤖 AI Automation
 
 ### [Data Analyst AI Automation](https://github.com/yash6677sharma-spec/Data-Analyst-AI-Automation)
 
@@ -112,13 +119,12 @@ Each project is maintained separately so that recruiters and other viewers can o
 
 | Area | Projects |
 |---|---|
+| Excel | Coffee Shop Sales Dashboard, Google vs Facebook Marketing Campaign Results |
+| SQL | Coffee Shop Sales Analysis, Olist E-commerce |
+| EDA | Python EDA, Titanic Klib EDA |
 | Power BI | Sales Report Dashboard, Olist E-commerce |
 | Tableau | British Airways Review |
-| Python / EDA | Python EDA, Titanic Klib EDA |
-| Excel | Coffee Shop Sales Dashboard |
-| SQL / Analytics | Coffee Shop Sales Analysis |
-| Marketing Analytics | Google vs Facebook Campaign Results |
-| AI / Automation | Data Analyst AI Automation |
+| AI Automation | Data Analyst AI Automation |
 
 ---
 
@@ -129,9 +135,9 @@ Each project is maintained separately so that recruiters and other viewers can o
 - Data visualization
 - Dashboard development
 - KPI and business performance analysis
-- SQL-based data analysis
+- SQL and PostgreSQL data analysis
 - Python-based analysis
-- Excel reporting
+- Excel reporting and PivotTables
 - Power BI and Tableau visualization
 - AI-assisted data analytics and automation
 
@@ -142,4 +148,3 @@ Each project is maintained separately so that recruiters and other viewers can o
 **Yash Sharma**
 
 - GitHub: [yash6677sharma-spec](https://github.com/yash6677sharma-spec)
-
